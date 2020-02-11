@@ -56,6 +56,7 @@ the_star_scrape('/home/cantillon/Dropbox/ACA/code/the_star_news.csv','abortion')
 
 the_star_scrape('/home/cantillon/Dropbox/ACA/code/the_star_opinion.csv','abortion')
 
+# testing git
 # TODO create new list of authors
 # TODO create new list of publication years
 
